@@ -23,10 +23,7 @@ GitHub Pages serves static files. With GitHub Free, the repository needs to be p
 
 See GitHub's [Pages setup guide](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) for current instructions.
 
-## Personal details to update later
 
-- Replace `static/images/profile-placeholder.svg` with a professional photo and update the `src` and alt text on Home and About.
-- Add actual project dates, tools, and links if you want to show them.
 - Add the certificate issue date if available.
 
 The site currently includes the personal details you provided, including your email address, phone number, school, training, certificate link, and social profiles. Review them before making the repository public.
